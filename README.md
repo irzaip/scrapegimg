@@ -5,6 +5,13 @@ ini adalah pengembangan kode dari
 sumber:
 https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/
 
+
+## INSTALASI DAN REQUIREMENT
+
+menggunakan python3, baca requirements.txt untuk mengetahui library apa saja yang diperlukan
+untuk menjalankan program ini.
+
+
 cara menggunakan:
 
     git clone https://github.com/irzaip/scrapegimg
