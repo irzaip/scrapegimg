@@ -6,6 +6,7 @@ sumber:
 https://www.pyimagesearch.com/2017/12/04/how-to-create-a-deep-learning-dataset-using-google-images/
 
 cara menggunakan:
+
     git clone https://github.com/irzaip/scrapegimg
     cd scrapegimg
     1. buka chrome kamu,
